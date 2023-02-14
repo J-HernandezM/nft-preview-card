@@ -17,18 +17,18 @@ Esta es una solucion al reto [NFT preview card component challenge on Frontend M
 
 Esta es mi propuesta de solucion al desafio de crear una NFT card usando unicamente HTML y CSS. En este caso aplique la metodologia Mobile First y de ahi escale a desktop.
 
-### El desafio
+## El desafio
 
 El usuario deberia poder:
 
 - Ver el layout optimo dependiendo de su tamano de pantalla.
 - Ver la interaccion cuando se coloca el mouse encima de los elementos.
 
-### Screenshot
+## Screenshot
 
 ![](./images/screenshot.png)
 
-### Links
+## Links
 
 - Solucion: [GITHUB](https://github.com/J-HernandezM/nft-preview-card)
 - Live site: [PAGES](https://j-hernandezm.github.io/nft-preview-card/)
