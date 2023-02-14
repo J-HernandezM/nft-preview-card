@@ -11,7 +11,6 @@ Esta es una solucion al reto [NFT preview card component challenge on Frontend M
 - [Mi proceso](#mi-proceso)
   - [Hecho con](#hecho-con)
   - [Lo aprendido](#lo-que-aprendi)
-  - [Aprendiendo](#en-continuo-aprendizaje)
 - [Autor](#autor)
 
 ## Descripcion
